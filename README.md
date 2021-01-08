@@ -30,9 +30,9 @@
 
 -----------------------------------------------------
 ## Contact
-github admin : 924ahn@gmail.com
-facebook page : https://www.facebook.com/kubigdata  
-instagram page : https://www.instagram.com/kubig.official   
+github admin : 924ahn@gmail.com     
+facebook page : https://www.facebook.com/kubigdata      
+instagram page : https://www.instagram.com/kubig.official     
 회장단 : 안수빈, 조민제    
 학술부 : 이영신, 명재성, 이두형, 최정윤, 전지우, 이가영, 임효진     
 대외부 : 조규선, 박시전, 성유지, 오세린, 이나윤     
