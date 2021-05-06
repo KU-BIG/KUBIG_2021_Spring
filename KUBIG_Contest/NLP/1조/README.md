@@ -8,7 +8,7 @@
 - 목적: 세대별 아이돌 그룹 노래 가사 생성하기
 - 기간: 2021.02.18 ~ 2021.03.11
 - 팀원: 11기 성유지, 11기 이지현, 12기 최정윤, 13기 
-- GitHub: [Song Lyrics Generator](https://github.com/Lyrics-Generation-Project/Song-Lyrics-Generator)
+- GitHub: [Song Lyrics Generator](https://github.com/Lyrics-Generation-Project/Song-Lyrics-Generator)  
 저희는 2021-1학기 쿠빅 데이터 분석대회를 참가한 NLP 1조 생성팀입니다!  
 GPT3 모델과 아이돌 노래 가사 데이터를 활용하여 세대별 아이돌 그룹 노래 가사를 생성하는 작사 AI를 구현해보았습니다.  
 상단의 깃허브에서 코드 및 데이터 를 더 자세하게 확인하실 수 있습니다.
