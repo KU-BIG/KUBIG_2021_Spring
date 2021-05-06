@@ -2,7 +2,7 @@
 
 저희는 2021-1학기 쿠빅 데이터 분석대회를 참가한 NLP 1조 생성팀입니다!   
 GPT3 모델과 아이돌 노래 가사 데이터를 활용하여 세대별 아이돌 그룹 노래 가사를 생성하는 작사 AI를 구현해보았습니다.  
-하단의 깃허브에서 코드 및 데이터 를 더 자세하게 확인하실 수 있습니다.  
+하단의 깃허브에서 코드 및 데이터를 더 자세하게 확인하실 수 있습니다.  
 
 ---
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xNO25-Knl2bR6HorrH7IhJRrCuKgDa6y?usp=sharing) 
