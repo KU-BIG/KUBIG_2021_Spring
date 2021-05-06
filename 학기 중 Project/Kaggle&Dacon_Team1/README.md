@@ -10,7 +10,7 @@
 - **웹페이지**: [날씨 빅데이터 콘테스트](https://bd.kma.go.kr/contest/main.do)
 
 ## Team 비온뒤맑음
-11기 성유지, 11기 조민제, 13기 박주영, 13기 전보민
+11기 성유지, 11기 조민제, 13기 박주영, 13기 전보민  
 💬 Contact: chloesung@korea.ac.kr
 
 ## 
