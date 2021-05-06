@@ -15,6 +15,7 @@ GPT3 모델과 아이돌 노래 가사 데이터를 활용하여 세대별 아�
 - 기간: 2021.02.18 ~ 2021.03.11
 - 팀원: 11기 성유지, 11기 이지현, 12기 최정윤, 13기 금지헌
 - GitHub: [Song Lyrics Generator](https://github.com/Lyrics-Generation-Project/Song-Lyrics-Generator)  
+<br>
 
 ## ❕ 사용 데이터셋
 - 아이돌 그룹 음악 가사 <br>
